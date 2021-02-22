@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ToDo</string>
+    <string name="Save">Spara</string>
+    <string name="Content">Inehåll</string>
+    <string name="Titel">Titel</string>
+    <string name="edit_task">Ändra</string>
+    <string name="delete">Radera</string>
+    <string name="new_task">Ny Todo</string>
+    <string name="titelerror">För kort titel</string>
+    <string name="contenteror">För kort text</string>
+    <string name="delettitel">Radera Todo</string>
+    <string name="deletawser_YES">Ja</string>
+    <string name="Deletanwser_NO">Nej</string>
+    <string name="delettext">Är du säker?</string>
+</resources>

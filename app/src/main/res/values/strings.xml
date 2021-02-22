@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ToDo</string>
+    <string name="Save">Save</string>
+    <string name="Content">Content</string>
+    <string name="Titel">Titel</string>
+    <string name="edit_task">Edit Task</string>
+    <string name="delete">Delete</string>
+    <string name="new_task">New Task</string>
+    <string name="titelerror">To Short Titel</string>
+    <string name="contenteror">To short text</string>
+    <string name="delettitel">Delete ToDo</string>
+    <string name="deletawser_YES">Yes</string>
+    <string name="Deletanwser_NO">No</string>
+    <string name="delettext">Are you shore?</string>
+</resources>
